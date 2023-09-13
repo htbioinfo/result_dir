@@ -1,0 +1,7 @@
+.idea
+.pytest_cache
+build
+dist
+my_dir1
+__pycache__
+result_dir.egg-info
